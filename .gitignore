@@ -1,0 +1,8 @@
+# MacOS 
+.DS_store
+
+# Java
+*.class
+
+# IntelliJ
+.idea
