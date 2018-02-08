@@ -7,9 +7,11 @@ Check in a collection of numbers if it exist a pair of numbers that sums up to a
 Example:
 
 Sum 9 in [1, 2, 3, 7] => {2, 7}
+
 Sum 3 in [-1, 2, 3, 4] => {-1, 4}
 
 Sum 10 in [0, 1, 2, 7] => No.
+
 Sum 4 in [1, 1, 4, 2] => No.
 
 ### Base code:
