@@ -1,6 +1,6 @@
 # WEEK 16
 
-## Pair or no pair?
+## Find Pair
 
 Check in a collection of numbers if it exist a pair of numbers that sums up to a given sum. You can assume the collection is sorted if it helps. Not necessary. Duplicates and negative numbers are allowed.
 
